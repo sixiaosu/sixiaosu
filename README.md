@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sixiaosu
 - 👀 I’m interested in everything you can imagine.
-- 🌱 I’m currently learning bioinformatics in Northeastern University.
+- 🌱 I’m currently learning bioinformatics at Northeastern University.
 - 📫 How to reach me: si.xi@northeastern.edu
 
 <!---
